@@ -2,6 +2,9 @@
 *.slo
 *.lo
 *.o
+*.gch
+a.out
+*.out
 
 # Compiled Dynamic libraries
 *.so
